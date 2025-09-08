@@ -31,8 +31,6 @@ Thông qua dữ liệu bán lẻ, mình áp dụng các phương pháp phân tí
 - **LTV**: đánh giá giá trị vòng đời khách hàng giúp đưa ra chiến lược marketing và chăm sóc phù hợp.
 
 ## 🖼️ Dashboard Power BI
-![alt text](image.png)
-
 Dashboard bao gồm:
 - Cơ cấu RFM segmentation. 
 - Top sản phẩm mang lại 80% doanh thu.
@@ -47,4 +45,3 @@ Dashboard bao gồm:
    - `cohort_ltv_analysis.sql`
 3. Mở file Power BI trong thư mục `powerbi/` để xem dashboard (`report.pbix`).  
 
-## 📂 Cấu trúc thư mục
