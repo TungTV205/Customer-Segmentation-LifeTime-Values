@@ -1,4 +1,4 @@
-# 📌 Customer Behavior Analytics & Lifetime Value Prediction in Retail  
+# Customer Behavior Analytics & Lifetime Value Prediction in Retail  
 *(SQL + Power BI)*
 
 ---
